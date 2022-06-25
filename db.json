@@ -1,0 +1,34 @@
+{
+  "TODOSERVER": [
+    {
+      "Title": "Science",
+      "id": 1,
+      "isCompleted": true
+    },
+    {
+      "Title": "REACT",
+      "isCompleted": true,
+      "id": 5
+    },
+    {
+      "Title": "Binary Search",
+      "isCompleted": true,
+      "id": 6
+    },
+    {
+      "Title": "Bubble Sort",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "Title": "REDUX",
+      "isCompleted": false,
+      "id": 9
+    },
+    {
+      "Title": "Quick Sort",
+      "isCompleted": false,
+      "id": 10
+    }
+  ]
+}
